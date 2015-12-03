@@ -1,3 +1,7 @@
 .hed{
   text-align: center;
 }
+.foot{
+  text-transform: uppercase;
+  text-decoration-style: solid;
+}
